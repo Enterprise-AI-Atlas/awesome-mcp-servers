@@ -160,6 +160,8 @@ MCP servers for web scraping, browser automation, and search APIs.
 - **[Firecrawl MCP Server](https://github.com/mendableai/firecrawl-mcp-server)** `Official` — Scrape and crawl websites into LLM-ready markdown.
 - **[Playwright MCP Server](https://github.com/microsoft/playwright-mcp)** `Official` — Cross-browser automation and testing tools from Microsoft.
 - **[SerpAPI MCP Server](https://github.com/serpapi/serpapi-mcp-server)** `Community` — Structured search results from Google and other engines via SerpAPI.
+- **[Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper)** `Community` - X/Twitter search, extraction, webhooks, and API workflows.
+  - Connect: `https://xquik.com/mcp`
 
 ---
 
