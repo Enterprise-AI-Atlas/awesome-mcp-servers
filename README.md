@@ -94,6 +94,8 @@ MCP servers for inference providers, model hubs, and AI services.
   - Install: `uvx groq-mcp`
 - **[Perplexity MCP Server](https://github.com/perplexityai/modelcontextprotocol)** `Official` — Real-time web search, reasoning, and research via Perplexity Sonar models.
   - Install: `npx -y @perplexity-ai/mcp-server`
+- **[LLM Pulse MCP Server](https://github.com/LLM-Pulse/llmpulse-mcp)** `Official` — Access brand visibility, citations, sentiment, share of voice, and AI traffic analytics from LLM Pulse.
+  - Connect: `https://api.llmpulse.ai/api/v1/mcp`
 
 ---
 
