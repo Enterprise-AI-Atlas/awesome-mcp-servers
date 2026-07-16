@@ -145,6 +145,8 @@ MCP servers for payments, banking, trading, and market data.
 - **[CoinGecko MCP Server](https://docs.coingecko.com/docs/ai-agent-hub/mcp-server)** `Official` — Live crypto prices, market data, historical charts, and DeFi/NFT data.
   - Connect: `https://mcp.api.coingecko.com/mcp`
 - **[PayPal MCP Server](https://github.com/paypal/paypal-mcp-server)** `Official` — PayPal API tools for payments, orders, and account operations.
+- **[AgentServices](https://agentservices.to)** `Community` — 54 crypto/finance data APIs with 37 MCP tools, monetized via x402 on-chain payments. Live market data, analytics, and inference endpoints.
+  - Connect: `https://api.agentservices.to/mcp`
 
 ---
 
