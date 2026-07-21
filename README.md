@@ -94,6 +94,8 @@ MCP servers for inference providers, model hubs, and AI services.
   - Install: `uvx groq-mcp`
 - **[Perplexity MCP Server](https://github.com/perplexityai/modelcontextprotocol)** `Official` — Real-time web search, reasoning, and research via Perplexity Sonar models.
   - Install: `npx -y @perplexity-ai/mcp-server`
+- **[RunAPI MCP Server](https://github.com/runapi-ai/mcp)** `Community` — Browse RunAPI models, check pricing, and create image, video, music/audio, and other model API tasks.
+  - Install: `npx -y @runapi.ai/mcp`
 
 ---
 
