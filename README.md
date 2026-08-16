@@ -152,6 +152,8 @@ MCP servers for payments, banking, trading, and market data.
 
 MCP servers for web scraping, browser automation, and search APIs.
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** `Community` — Author, run, and triage natural-language web and mobile tests with persistent test memory and self-healing flows.
+  - Install: `npm install -D agent-qa`
 - **[Puppeteer MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** `Official` — Browser automation for dynamic web pages.
 - **[Fetch MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** `Official` — Web content fetching and conversion for efficient LLM usage.
 - **[Brave Search MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** `Official` — Web search via the Brave Search API.
