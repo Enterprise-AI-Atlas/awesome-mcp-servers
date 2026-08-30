@@ -73,6 +73,8 @@ MCP servers for version control, infrastructure, observability, and container wo
 - **[Git MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** `Official` — Read, search, and manipulate local Git repositories.
 - **[GitLab MCP Server](https://github.com/jmrplens/gitlab-mcp-server)** `Community` — Open-source GitLab server with safe/read-only modes, self-hosted support, and 870+ dynamic actions.
   - Install: `docker pull ghcr.io/jmrplens/gitlab-mcp-server:latest`
+- **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** `Community` — Self-hosted agent runtime exposing durable sessions, sandboxed execution, approvals, artifacts, audit, and replay through a local stdio MCP bridge.
+  - Install: `docker run --rm -i -e MANAGED_AGENTS_URL=http://host.docker.internal:3000 ghcr.io/sandbaseai/sandbase-harness-mcp:0.3.8`
 - **[Docker Hub MCP Server](https://github.com/docker/hub-mcp)** `Official` — Search images and manage Docker Hub repositories.
 - **[Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server)** `Community` — Native Kubernetes and OpenShift operations via the Kubernetes API.
 - **[Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server)** `Official` — Terraform Registry, HCP Terraform, and workspace management tools.
