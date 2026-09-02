@@ -99,6 +99,8 @@ MCP servers for inference providers, model hubs, and AI services.
 
 ## Productivity
 
+ - **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)** `Community` — Batch-oriented social media planning, review, scheduling, and publishing through API/MCP workflows. See the [docs](https://app.bulkpublish.com/docs) and [social-media skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills).
+
 MCP servers for notes, tasks, calendars, and project management.
 
 - **[Notion MCP Server](https://github.com/makenotion/notion-mcp-server)** `Official` — Read and write Notion pages, databases, and blocks.
