@@ -134,6 +134,7 @@ MCP servers for messaging, email, and team collaboration.
 
 ## Finance
 
+- **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** — Background check any company in the world: registration, executives, courts and finances. Endpoint: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 MCP servers for payments, banking, trading, and market data.
 
 - **[Stripe MCP Server](https://github.com/stripe/ai)** `Official` — Stripe API search, documentation retrieval, and payment operations.
