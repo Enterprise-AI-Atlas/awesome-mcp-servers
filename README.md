@@ -163,6 +163,9 @@ MCP servers for web scraping, browser automation, and search APIs.
 - **[Xquik MCP Server](https://docs.xquik.com/mcp/overview)** `Official` - Remote MCP server for X data extraction, webhooks, and REST API access.
   - Connect: `https://xquik.com/mcp`
 
+- **[Robot Speed MCP Server](https://github.com/robot-speed/mcp)** `Official` — SEO and AI visibility MCP with free no-auth audit tools and pro content/GSC workflows.
+  - Connect: `https://www.robot-speed.com/api/mcp/free`
+
 ---
 
 ## File Systems
