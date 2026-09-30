@@ -113,6 +113,9 @@ MCP servers for notes, tasks, calendars, and project management.
   - Connect: `https://mcp.asana.com/v2/mcp`
 - **[Google Calendar MCP Server](https://github.com/nspady/google-calendar-mcp)** `Community` — Create, update, search, and check availability across multiple Google Calendars.
 
+- **[Kleap MCP Server](https://github.com/kleaphq/cli)** `Official` — No-code website builder MCP for creating, editing, and publishing live sites from AI agents.
+  - Connect: `https://kleap.co/api/mcp`
+
 ---
 
 ## Communication
