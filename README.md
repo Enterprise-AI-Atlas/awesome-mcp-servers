@@ -101,6 +101,8 @@ MCP servers for inference providers, model hubs, and AI services.
 
 MCP servers for notes, tasks, calendars, and project management.
 
+- **[FirstSales MCP](https://developer.firstsales.io/agents/mcp-server)** `Official` — Retrieve CRM contacts, deals, lists and workflows, and create contacts in approved workspaces via hosted OAuth MCP; requires an eligible paid FirstSales plan.
+  - Connect: `https://api.app.firstsales.io/mcp`
 - **[Notion MCP Server](https://github.com/makenotion/notion-mcp-server)** `Official` — Read and write Notion pages, databases, and blocks.
   - Install: `npx -y @notionhq/notion-mcp-server`
 - **[Obsidian MCP Server](https://github.com/MarkusPfundstein/mcp-obsidian)** `Community` — Interact with an Obsidian vault via the Local REST API plugin.
