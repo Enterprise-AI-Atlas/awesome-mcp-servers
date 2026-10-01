@@ -119,6 +119,8 @@ MCP servers for notes, tasks, calendars, and project management.
 
 MCP servers for messaging, email, and team collaboration.
 
+- **[Communicate](https://developer.communicate.so/docs/mcp)** `Official` — Read-only discovery of workspace AI support agents using `communicate_list_agents`, authenticated with OAuth client-credentials tokens scoped to `agents:read`.
+  - Connect: `https://app.communicate.so/mcp`
 - **[Slack MCP Server](https://docs.slack.dev/ai/mcp-server)** `Official` — Search messages, send communications, manage canvases, and retrieve user profiles in Slack.
   - Connect: `https://mcp.slack.com/mcp`
 - **[Discord Agent MCP](https://github.com/aj-geddes/discord-agent-mcp)** `Community` — Comprehensive Discord server management with 70+ tools.
