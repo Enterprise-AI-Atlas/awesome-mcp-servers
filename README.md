@@ -197,6 +197,7 @@ MCP servers for vector stores, knowledge graphs, long-term memory, and knowledge
 - **[Zotero MCP Server](https://github.com/cookjohn/zotero-mcp)** `Community` — Access and manage a Zotero research library, including full-text PDFs and citations.
 - **[Atlassian Rovo MCP Server](https://github.com/atlassian/atlassian-mcp-server)** `Official` — Search and act on Confluence and Jira data through a remote MCP server.
   - Connect: `https://mcp.atlassian.com/v1/mcp`
+- **[Tale](https://github.com/tale-project/tale)** `Official` — Self-hosted HTTP MCP server for organization knowledge and versioned automations, authenticated by API key and organization slug.
 
 ---
 
