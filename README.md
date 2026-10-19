@@ -136,6 +136,8 @@ MCP servers for messaging, email, and team collaboration.
 
 MCP servers for payments, banking, trading, and market data.
 
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** `Official` — Local CLI and stdio MCP payments on macOS; signing requires foreground owner approval.
+  - Install: `brew install nuanu-ai/tap/apn`
 - **[Stripe MCP Server](https://github.com/stripe/ai)** `Official` — Stripe API search, documentation retrieval, and payment operations.
   - Install: `npx -y @stripe/mcp --api-key=YOUR_STRIPE_SECRET_KEY`
 - **[Plaid MCP Server](https://plaid.com/docs/resources/mcp/)** `Official` — Dashboard diagnostics and a local AI coding toolkit for Plaid-connected finance data.
