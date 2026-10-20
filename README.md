@@ -162,6 +162,8 @@ MCP servers for web scraping, browser automation, and search APIs.
 - **[SerpAPI MCP Server](https://github.com/serpapi/serpapi-mcp-server)** `Community` — Structured search results from Google and other engines via SerpAPI.
 - **[Xquik MCP Server](https://docs.xquik.com/mcp/overview)** `Official` - Remote MCP server for X data extraction, webhooks, and REST API access.
   - Connect: `https://xquik.com/mcp`
+- **[Rolês em SP MCP Server](https://rolesemsp.com.br/connect.md)** `Official` — Curated cultural venue search and leisure itinerary discovery in São Paulo.
+  - Connect: `https://rolesemsp.com.br/mcp`
 
 ---
 
