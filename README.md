@@ -71,7 +71,7 @@ MCP servers for version control, infrastructure, observability, and container wo
 
 - **[GitHub MCP Server](https://github.com/github/github-mcp-server)** `Official` — Repository, issue, PR, code search, and workflow automation tools.
 - **[Git MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** `Official` — Read, search, and manipulate local Git repositories.
-- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** `Official` — Local macOS 14+ DNS, route, latency and host-connectivity diagnostics through stdio MCP (GPL-3.0-only; Xcode 16+ source build).
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** `Official` — Local macOS 14+ DNS, route, latency and host-connectivity diagnostics through stdio MCP (GPL-3.0-only code; Xcode 16+ source build).
   - Install: `brew install seifip/kilobat/kilobat`
 - **[GitLab MCP Server](https://github.com/jmrplens/gitlab-mcp-server)** `Community` — Open-source GitLab server with safe/read-only modes, self-hosted support, and 870+ dynamic actions.
   - Install: `docker pull ghcr.io/jmrplens/gitlab-mcp-server:latest`
