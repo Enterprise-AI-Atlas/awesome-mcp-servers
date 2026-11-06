@@ -152,6 +152,8 @@ MCP servers for payments, banking, trading, and market data.
 
 MCP servers for web scraping, browser automation, and search APIs.
 
+- **[JobsPipe MCP Server](https://github.com/jobspipe/mcp)** `Community` — Hosted MCP to search live job postings from 30+ ATS feeds and job boards (remote endpoint `https://mcp.jobspipe.dev/mcp`).
+  - Docs: https://docs.jobspipe.dev
 - **[Puppeteer MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer)** `Official` — Browser automation for dynamic web pages.
 - **[Fetch MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** `Official` — Web content fetching and conversion for efficient LLM usage.
 - **[Brave Search MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** `Official` — Web search via the Brave Search API.
