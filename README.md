@@ -69,6 +69,7 @@ Official and community MCP servers for major cloud platforms.
 
 MCP servers for version control, infrastructure, observability, and container workflows.
 
+- **[Agent Nexus](https://github.com/Strategiumfinancepartner/AgentNexus)** `Community` - Continuous discovery registry and live health observability for 730+ remote MCP servers and APIs with tool schema validation and split-fleet detection.
 - **[GitHub MCP Server](https://github.com/github/github-mcp-server)** `Official` — Repository, issue, PR, code search, and workflow automation tools.
 - **[Git MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/git)** `Official` — Read, search, and manipulate local Git repositories.
 - **[GitLab MCP Server](https://github.com/jmrplens/gitlab-mcp-server)** `Community` — Open-source GitLab server with safe/read-only modes, self-hosted support, and 870+ dynamic actions.
